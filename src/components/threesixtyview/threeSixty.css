@@ -1,0 +1,16 @@
+.threesixty{
+    background-color: rgb(247, 247, 247);
+    padding: 0px 8%;
+}
+.threesixty img{
+    height: 90%;
+    width: 90%;
+}
+.threesixtybutton{
+    background-color: green;
+    padding: 6px;
+    width: 128px;
+    border-radius: 23px;
+    cursor: pointer;
+    border: none;
+}
